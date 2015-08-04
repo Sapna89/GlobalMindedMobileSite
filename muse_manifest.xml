@@ -1,0 +1,59 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1438726167035">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="4175411981" ref="supporters:index:conference:policy:pre-conference:conference-info:registration:contact"/>
+    <file name="supporters.css" crc="4035350483" ref="supporters"/>
+    <file name="index.css" crc="21702542" ref="index"/>
+    <file name="conference.css" crc="3950970774" ref="conference"/>
+    <file name="policy.css" crc="446659257" ref="policy"/>
+    <file name="pre-conference.css" crc="258819504" ref="pre-conference"/>
+    <file name="conference-info.css" crc="364764439" ref="conference-info"/>
+    <file name="registration.css" crc="524252676" ref="registration"/>
+    <file name="contact.css" crc="3886389474" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="mobile-menu.mulib" crc="95576157" mt="1422944114000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="museutils.js" crc="521960461" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="webpro.js" crc="220831917" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="touchswipe.js" crc="325405309" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="conference"/>
+    <file name="pie.js" crc="3827607177" ref="conference-info"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="3882821769" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="logoslide.jpg" crc="4102107079" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lisa_final.jpg" crc="198264494" ref="index"/>
+    <file name="michael - banks.jpg" crc="205883233" ref="index"/>
+    <file name="michelle_final2.jpg" crc="182516573" ref="index"/>
+    <file name="milton chen.jpg" crc="4029779250" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tagline.jpg" crc="3881381421" ref="index"/>
+    <file name="team.jpg" crc="491495214" ref="index"/>
+    <file name="icons-fb.png" crc="3810689554" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="icons-in.png" crc="47957263" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="icons-tw.png" crc="477977868" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="icon-yt.png" crc="3859541781" ref="index:conference:registration:contact:conference-info:supporters:policy:pre-conference"/>
+    <file name="contact-pic.jpg" crc="355126950" ref="contact"/>
+    <file name="supporters1.jpg" crc="265463685" ref="supporters"/>
+    <file name="supporters2.jpg" crc="4154504443" ref="supporters"/>
+    <file name="supporters4.jpg" crc="215952001" ref="supporters"/>
+    <file name="supporters3.jpg" crc="3779891937" ref="supporters"/>
+  </folder>
+  <file name="index.html" crc="34966144" mt="1438725922505" redirect="true"/>
+  <file name="conference.html" crc="4281682023" mt="1438725922497" redirect="true"/>
+  <file name="registration.html" crc="3857282817" mt="1438725922494" redirect="true"/>
+  <file name="contact.html" crc="4059878808" mt="1438725922514" redirect="true"/>
+  <file name="conference-info.html" crc="142491310" mt="1438725922491" redirect="true"/>
+  <file name="supporters.html" crc="4118219917" mt="1438725922508" redirect="true"/>
+  <file name="policy.html" crc="167652601" mt="1438725922520" redirect="true"/>
+  <file name="pre-conference.html" crc="4154979688" mt="1438725963575" redirect="true"/>
+</manifest>
